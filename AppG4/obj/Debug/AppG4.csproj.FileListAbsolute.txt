@@ -1,0 +1,40 @@
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\Data\historylearning_data.info
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\Data\student_data.info
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\AppG4.exe.config
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\AppG4.exe
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\AppG4.pdb
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\EntityFramework.dll
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\EntityFramework.SqlServer.dll
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\EntityFramework.xml
+D:\Drill-ground\AppG4-master\AppG4\bin\Debug\EntityFramework.SqlServer.xml
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.csprojAssemblyReference.cache
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.Form1.resources
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.frmQuaTrinhHocTap_ChiTiet.resources
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.frmThongTinSinhVien.resources
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.frmTinhToanCoBan.resources
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.Properties.Resources.resources
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.csproj.GenerateResource.cache
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.csproj.CoreCompileInputs.cache
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.csproj.CopyComplete
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.exe
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.pdb
+D:\Drill-ground\AppG4-master\AppG4\obj\Debug\AppG4.FrmThemSV.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\AppG4.exe.config
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.exe
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.pdb
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\Data\historylearning_data.info
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\Data\student_data.info
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\AppG4.exe
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\AppG4.pdb
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\EntityFramework.dll
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\EntityFramework.SqlServer.dll
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\EntityFramework.xml
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\bin\Debug\EntityFramework.SqlServer.xml
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.csprojResolveAssemblyReference.cache
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.Form1.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.frmQuaTrinhHocTap_ChiTiet.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.FrmThemSV.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.frmThongTinSinhVien.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.frmTinhToanCoBan.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.Properties.Resources.resources
+F:\Nguyễn Xuân Bảo_ Nhóm 4_ .NET FrameWork\AppG4\obj\Debug\AppG4.csproj.GenerateResource.Cache

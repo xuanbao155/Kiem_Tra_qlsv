@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan_ly_sinh_vien.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan_ly_sinh_vien.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.pdb
